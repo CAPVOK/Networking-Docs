@@ -10,5 +10,7 @@
 
 **Ссылки на другие репо:**
 
+* [Прикладной уровень](https://github.com/CAPVOK/Networking_chat_front)
 * [Канальный уровень](https://github.com/CAPVOK/Data_link_layer)
 * [Транспортный уровень](https://github.com/CAPVOK/transport_layer)
+* [Документация](https://github.com/CAPVOK/Networking-Docs)
